@@ -14,8 +14,11 @@ Here's a step-by-step guide on how to use the code:
  -or else you can directly copy and paste the code to run in google collab.
 
 When prompted, enter the English text you want to translate, for example:
+
 So even if it's a big video, I will clearly mention all the products.
+
 The script will translate the input text to Hinglish and display the result:
+
 Result: तो भले ही यह एक बड़ा vedio है, मैं स्पष्ट रूप से सभी product का उल्लेख करूंगा।.
 
 REQUIREMENTS:
