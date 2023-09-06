@@ -35,4 +35,4 @@ Python: Make sure you have Python installed on your system.
 Python Libraries:
 googletrans: You can install the googletrans library using pip by running the following command:
 
-pip install googletrans==4.0.0-rc1
+pip install googletrans
